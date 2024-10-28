@@ -2,7 +2,7 @@ import java.util.*;
 public class Hashmap {
    public static void main(String[] var0) {
       HashMap <String,Integer>hm = new HashMap<>();
-      hm.put("coffe", 15);
+      hm.put("coffe", 16);
       hm.put("tea", 15);
       System.out.println(hm);
 
